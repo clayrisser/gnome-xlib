@@ -4,6 +4,8 @@
 
 > typescript bindings for gnome xlib
 
+![](assets/gnome-xlib.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 ## Features
